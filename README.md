@@ -1,10 +1,10 @@
-# 🏦 Bank Statement Analyzer & Forensic Audit Dashboard
+#  Bank Statement Analyzer & Forensic Audit Dashboard
 
 An end-to-end Python financial analysis and audit engine designed to ingest raw bank statement CSVs, compute cash flows, categorize transactions, and detect forensic ledger anomalies (such as mathematical balance breaks, cheque return chains, and circular round-trip transactions). Features both a **Command Line Interface (CLI)** and an interactive **Streamlit Web Dashboard**.
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Layer | Technologies | Purpose |
 | :--- | :--- | :--- |
@@ -19,7 +19,7 @@ An end-to-end Python financial analysis and audit engine designed to ingest raw 
 
 ---
 
-## 🏗️ Architecture & Pipeline Flow
+## Architecture & Pipeline Flow
 
 ```mermaid
 flowchart TD
@@ -35,7 +35,7 @@ flowchart TD
 
 ---
 
-## 🧠 How the Logic Works (Step-by-Step)
+##  How the Logic Works (Step-by-Step)
 
 When a bank statement CSV is provided, `analyzer.py` processes it through four sequential stages:
 
@@ -89,7 +89,7 @@ Flags suspicious circular fund movements commonly used to inflate turnover:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 bank-statement-analyzer/
@@ -105,7 +105,7 @@ bank-statement-analyzer/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Installation
 
@@ -160,7 +160,7 @@ Features included in the dashboard:
 
 ---
 
-## 🧪 Running Unit Tests
+##  Running Unit Tests
 
 Run the test suite via `pytest` or `unittest`:
 
@@ -235,6 +235,6 @@ python -m unittest -v test_analyzer
 
 ---
 
-## 📝 License
+##  License
 
 MIT License. Free for educational, commercial, and personal use.
