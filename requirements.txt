@@ -1,0 +1,6 @@
+# Core Dashboard & Data Analysis
+pandas>=2.0.0
+streamlit>=1.28.0
+
+# Testing Framework
+pytest>=7.4.0

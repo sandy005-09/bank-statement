@@ -1,0 +1,289 @@
+{
+  "summary": {
+    "statement_period": {
+      "start_date": "2026-04-01",
+      "end_date": "2026-09-29",
+      "total_days": 182
+    },
+    "total_transactions": 240,
+    "expense_transaction_count": 121,
+    "income_transaction_count": 119,
+    "total_income": 13427413.99,
+    "total_expenses": 6154470.18,
+    "net_cash_flow": 7272943.81,
+    "savings_rate_pct": 54.16,
+    "average_daily_spend": 33815.77021978022,
+    "starting_balance": 300000.0,
+    "ending_balance": 7597943.81,
+    "largest_expense": {
+      "date": "2026-08-22",
+      "description": "NEFT-DR-TARA VENTURES",
+      "amount": 360000.0
+    },
+    "largest_income": {
+      "date": "2026-08-20",
+      "description": "NEFT-CR-TARA VENTURES",
+      "amount": 360000.0
+    }
+  },
+  "category_breakdown": [
+    {
+      "category": "Miscellaneous",
+      "total_spent": 1699855.21,
+      "percentage_of_expenses": 27.62,
+      "transaction_count": 25,
+      "average_transaction": 67994.2084
+    },
+    {
+      "category": "Logistics & Transport",
+      "total_spent": 1524101.23,
+      "percentage_of_expenses": 24.76,
+      "transaction_count": 38,
+      "average_transaction": 40107.92710526316
+    },
+    {
+      "category": "Payroll & Salary",
+      "total_spent": 1042853.36,
+      "percentage_of_expenses": 16.94,
+      "transaction_count": 6,
+      "average_transaction": 173808.89333333334
+    },
+    {
+      "category": "Taxes & Compliance",
+      "total_spent": 392731.98,
+      "percentage_of_expenses": 6.38,
+      "transaction_count": 6,
+      "average_transaction": 65455.33
+    },
+    {
+      "category": "Office & Printing",
+      "total_spent": 327519.36,
+      "percentage_of_expenses": 5.32,
+      "transaction_count": 6,
+      "average_transaction": 54586.56
+    },
+    {
+      "category": "Packaging & Raw Materials",
+      "total_spent": 286093.98,
+      "percentage_of_expenses": 4.65,
+      "transaction_count": 7,
+      "average_transaction": 40870.56857142857
+    },
+    {
+      "category": "Rent & Facilities",
+      "total_spent": 270000.0,
+      "percentage_of_expenses": 4.39,
+      "transaction_count": 6,
+      "average_transaction": 45000.0
+    },
+    {
+      "category": "Bank Charges & Fees",
+      "total_spent": 267989.48,
+      "percentage_of_expenses": 4.35,
+      "transaction_count": 6,
+      "average_transaction": 44664.91333333333
+    },
+    {
+      "category": "Loan & EMI",
+      "total_spent": 229500.0,
+      "percentage_of_expenses": 3.73,
+      "transaction_count": 6,
+      "average_transaction": 38250.0
+    },
+    {
+      "category": "Utilities",
+      "total_spent": 81279.43,
+      "percentage_of_expenses": 1.32,
+      "transaction_count": 12,
+      "average_transaction": 6773.285833333333
+    },
+    {
+      "category": "Hardware & Electricals",
+      "total_spent": 32546.15,
+      "percentage_of_expenses": 0.53,
+      "transaction_count": 3,
+      "average_transaction": 10848.716666666667
+    }
+  ],
+  "monthly_trends": {
+    "2026-04": {
+      "income": 2994847.65,
+      "expenses": 1289760.02,
+      "net_savings": 1705087.63,
+      "savings_rate_pct": 56.93,
+      "transaction_count": 47
+    },
+    "2026-05": {
+      "income": 2245280.83,
+      "expenses": 828162.6,
+      "net_savings": 1417118.23,
+      "savings_rate_pct": 63.12,
+      "transaction_count": 40
+    },
+    "2026-06": {
+      "income": 2207239.93,
+      "expenses": 722853.54,
+      "net_savings": 1484386.39,
+      "savings_rate_pct": 67.25,
+      "transaction_count": 37
+    },
+    "2026-07": {
+      "income": 1359276.64,
+      "expenses": 732469.05,
+      "net_savings": 626807.59,
+      "savings_rate_pct": 46.11,
+      "transaction_count": 35
+    },
+    "2026-08": {
+      "income": 2197100.49,
+      "expenses": 1479057.02,
+      "net_savings": 718043.47,
+      "savings_rate_pct": 32.68,
+      "transaction_count": 40
+    },
+    "2026-09": {
+      "income": 2423668.45,
+      "expenses": 1102167.95,
+      "net_savings": 1321500.5,
+      "savings_rate_pct": 54.52,
+      "transaction_count": 41
+    }
+  },
+  "recurring_expenses": [
+    {
+      "description": "NEFT-DR-ROYAL ESTATES RENT",
+      "amount": 45000.0,
+      "frequency": 6,
+      "total_spent": 270000.0,
+      "dates": [
+        "2026-04-05",
+        "2026-05-05",
+        "2026-06-05",
+        "2026-07-05",
+        "2026-08-05",
+        "2026-09-05"
+      ]
+    },
+    {
+      "description": "ECS DR LOAN EMI 8801234",
+      "amount": 38250.0,
+      "frequency": 6,
+      "total_spent": 229500.0,
+      "dates": [
+        "2026-04-07",
+        "2026-05-07",
+        "2026-06-07",
+        "2026-07-07",
+        "2026-08-07",
+        "2026-09-07"
+      ]
+    }
+  ],
+  "top_expenses": [
+    {
+      "date": "2026-08-22",
+      "description": "NEFT-DR-TARA VENTURES",
+      "amount": 360000.0
+    },
+    {
+      "date": "2026-09-24",
+      "description": "NEFT-DR-KRISHNA TRADELINKS",
+      "amount": 360000.0
+    },
+    {
+      "date": "2026-06-28",
+      "description": "SALARY BATCH PAYOUT",
+      "amount": 183900.61
+    },
+    {
+      "date": "2026-04-28",
+      "description": "SALARY BATCH PAYOUT",
+      "amount": 181077.03
+    },
+    {
+      "date": "2026-09-28",
+      "description": "SALARY BATCH PAYOUT",
+      "amount": 174571.54
+    }
+  ],
+  "monthly_average_balance": {
+    "2026-04": {
+      "days": 30,
+      "average_daily_closing_balance": "1320098.53"
+    },
+    "2026-05": {
+      "days": 31,
+      "average_daily_closing_balance": "2319949.88"
+    },
+    "2026-06": {
+      "days": 30,
+      "average_daily_closing_balance": "4475482.73"
+    },
+    "2026-07": {
+      "days": 31,
+      "average_daily_closing_balance": "4911601.29"
+    },
+    "2026-08": {
+      "days": 31,
+      "average_daily_closing_balance": "5961470.88"
+    },
+    "2026-09": {
+      "days": 30,
+      "average_daily_closing_balance": "6932063.23"
+    }
+  },
+  "bounces": [
+    {
+      "cheque_number": "100349",
+      "deposit_line": 19,
+      "return_line": 27,
+      "charge_line": null,
+      "return_date": "2026-04-18"
+    },
+    {
+      "cheque_number": "100357",
+      "deposit_line": 55,
+      "return_line": 59,
+      "charge_line": null,
+      "return_date": "2026-05-12"
+    },
+    {
+      "cheque_number": "100364",
+      "deposit_line": 183,
+      "return_line": 187,
+      "charge_line": null,
+      "return_date": "2026-08-19"
+    }
+  ],
+  "round_trips": [
+    {
+      "counterparty": "TARA VENTURES",
+      "amount": "360000.00",
+      "credit_line": 190,
+      "debit_line": 194,
+      "credit_date": "2026-08-20",
+      "debit_date": "2026-08-22",
+      "hours_apart": 48.0
+    },
+    {
+      "counterparty": "KRISHNA TRADELINKS",
+      "amount": "360000.00",
+      "credit_line": 235,
+      "debit_line": 236,
+      "credit_date": "2026-09-24",
+      "debit_date": "2026-09-24",
+      "hours_apart": 0.0
+    }
+  ],
+  "balance_breaks": [
+    {
+      "line_number": 205,
+      "date": "2026-09-05",
+      "description": "NEFT-DR-ROYAL ESTATES RENT",
+      "expected_balance": "6062332.52",
+      "printed_balance": "6087332.52",
+      "difference": "25000.00"
+    }
+  ],
+  "invalid_rows": []
+}
